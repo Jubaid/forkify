@@ -1,0 +1,15 @@
+{
+  "name": "forkifyme",
+  "version": "1.0.0",
+  "description": "food api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[D\u001b[Chttps://github.com/Jubaid/forkify.git"
+  },
+  "author": "Jubaid Hossain",
+  "license": "ISC"
+}
